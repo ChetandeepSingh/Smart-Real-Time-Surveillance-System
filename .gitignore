@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+*.h5
+*.pt
+*.xml
+Output Video/
+runs/
+test/
+test_data/
+theftDetection
